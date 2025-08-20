@@ -1,0 +1,98 @@
+Relatório de Manutenção de Código
+
+Instruções:
+Para cada programa corrigido, escreva uma descrição curta explicando o que estava errado 
+e qual alteração você fez para resolver o problema.
+
+----------------------------------------------------------------------------
+
+Programa 1 – Calculadora de Média
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 2 – Contador de Números Pares
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 3 – Caixa Eletrônico
+Descrição da manutenção realizada:
+
+
+
+
+
+----------------------------------------------------------------------------
+
+Programa 4 – Tabuada
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 5 – Jogo de Adivinhação
+Descrição da manutenção realizada:
+
+
+
+
+
+----------------------------------------------------------------------------
+
+Programa 6 – Busca em Lista
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 7 – Impressão de Ímpares
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 8 – Validação de Senha
+Descrição da manutenção realizada:
+
+
+
+
+
+----------------------------------------------------------------------------
+
+Programa 9 – Contagem de Vogais
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 10 – Acumulador de Valores
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 11 – Função Soma
+Descrição da manutenção realizada:
+
+
+
+----------------------------------------------------------------------------
+
+Programa 12 – Menu com elif
+Descrição da manutenção realizada:
+
+
+
+
+----------------------------------------------------------------------------
